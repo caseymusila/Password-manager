@@ -1,52 +1,37 @@
-# Github
+# Password Manager
 
-#### A web App where you search a Github user and it displays his/her profile account and repositories, 25th of July 2021
+##### A Password manager is essentially an encrypted digital vault that
 
-#### By **Casey Kyalo**
+stores secure password login information you use to access apps
+and accounts on your mobile device, websites and other services.
 
-## Description
+#### By **Jefferson Gakuya**
 
-A website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
+## Installations
 
-## Setup/Installation Requirements
+run
 
-- GitHub to host the website
-- Visual Studio Code for writing codes
-- Bootstrap for layout
-- A browser to display the website
-- Web App
-- AngularCli
-  The website to run needs only a web browser need of a server.
+- `cd Password-manager`
+- To run the app, use `python3.9 run.py`
+- To tun Tests, use ` python3.9 -m unittest`
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+## Setup
 
-## Known Bugs
+Install these:
 
-All the bugs fixed
+- Python3
+- pyperclip
 
-## Development server
+## Technologies used
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Python3
 
-## Code scaffolding
+#### Behaviour Driven Development
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+| Inputs   |                     Description |
+| :------- | ------------------------------: |
+| Username | Account username, `eg username` |
+| Password | Account password, `eg password` |
 
 ## Support and contact details
 
@@ -55,6 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### License
 
-Copyright (c) 2021 
+No Licence issued. modify it at your own cost
+Copyright (c) 2021 **Github App**
 
-
+Licensed under the [caseymusila](LICENSE).
