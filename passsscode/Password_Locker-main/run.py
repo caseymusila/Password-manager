@@ -178,7 +178,7 @@ def main():
                                                 print('\n')
 
                                     elif shrt_code == "ex":
-                                        print(f"Bye{log_in.uname}"
+                                        print(f"Bye{log_in.uname}")
 
 
 
